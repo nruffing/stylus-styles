@@ -1,0 +1,12 @@
+:root {
+    --darkest: #000000;
+    --darker: #1a1a1a;
+    
+    --lightest: #ffffff;
+    --lighter: #d7d7d7;
+    
+    
+    /* newletter.pragmaticengineer.com */
+    --web_bg_color: var(--darker);
+    --print_on_web_bg_color: var(--lighter);
+}
