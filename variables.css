@@ -9,4 +9,15 @@
     /* newletter.pragmaticengineer.com */
     --web_bg_color: var(--darker);
     --print_on_web_bg_color: var(--lighter);
+    
+    
+    /* developer.mozilla.org */
+    @media screen and (max-width: 1300px) {
+        .main-wrapper {
+            grid-template-areas: "main";
+            grid-template-columns: auto;
+            padding: 40px;
+        }
+    }
+    
 }
